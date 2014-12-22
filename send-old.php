@@ -2,7 +2,7 @@
         $phone_number = $_GET['phone_number'];
         $message = urlencode($_GET['message']);
 
-        $api_url = "https://rest.nexmo.com/sms/json?api_key=4d17a6dc&api_secret=2655a69b&from=Textmenow&to=". $phone_number ."&text=". $message;
+        $api_url = "https://rest.nexmo.com/sms/json?api_key=<API_KEY_HERE>&api_secret=<API_SECRET_HERE>&from=Textmenow&to=". $phone_number ."&text=". $message;
         // echo json_encode($api_url);
         // exit;
 

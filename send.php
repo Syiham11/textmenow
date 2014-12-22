@@ -19,7 +19,7 @@
 	 */
 
 	// Step 1: Declare new NexmoMessage.
-	$nexmo_sms = new NexmoMessage('4d17a6dc', '2655a69b');
+	$nexmo_sms = new NexmoMessage('SECRET_API', 'API_KEY');
 
 	// Step 2: Use sendText( $to, $from, $message ) method to send a message. 
 	$info = $nexmo_sms->sendText( $phone_number, 'Joven&Mia', $message );
