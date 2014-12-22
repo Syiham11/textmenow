@@ -1,0 +1,88 @@
+<!--
+	jQuery Mobile Boilerplate
+	/snippets/forms.html
+-->
+<!doctype html>
+<html>
+<head>
+	<title> jQuery Mobile Boilerplate - Forms &amp; Elements</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- jQuery Mobile CSS bits -->
+	<link rel="stylesheet" href="css/jquery.mobile-1.4.0.min.css" />
+
+	<!-- if you have a custom theme, add it here -->
+	<link rel="stylesheet"  href="themes/jQuery-Mobile-Boilerplate.css" />
+
+	<!-- Custom css -->
+	<link rel="stylesheet" href="css/custom.css" />
+
+	<!-- Javascript includes -->
+	<script src="js/jquery-1.10.2.js"></script>
+	<script src="js/mobileinit.js"></script>
+	<script src="js/jquery.mobile-1.4.0.js"></script>
+	<script src="js/application.js"></script>
+</head>
+<body>
+	<div data-role="page">
+
+		<div data-role="header">
+			<a href="index.html" data-icon="home">Home</a>
+			<h1>Textmenow</h1>
+		</div>
+
+		<div data-role="content">
+
+
+
+
+        <form action="send.php" method="get">
+
+        	<h2>Quick instructions:</h2>
+
+        	<p>Para masend ang inyong text message i-type lang ang number ng iyong recipient, sa ganitong Format: 639057214221  <br><span style="font-size: 12px; color: red;">(palitan ang 0 ng 63)</span>.</p>
+
+            <div data-role="fieldcontain">
+                <fieldset data-role="controlgroup">
+                    <legend>Choose a contact person:</legend>
+                    <input type="radio" name="radio-choice-1" id="radio-choice-1" value="choice-1" checked="checked" />
+                    <label for="radio-choice-1">Cat</label>
+
+                    <input type="radio" name="radio-choice-1" id="radio-choice-2" value="choice-2"  />
+                    <label for="radio-choice-2">Dog</label>
+
+                    <input type="radio" name="radio-choice-1" id="radio-choice-3" value="choice-3"  />
+                    <label for="radio-choice-3">Hamster</label>
+
+                    <input type="radio" name="radio-choice-1" id="radio-choice-4" value="choice-4"  />
+                    <label for="radio-choice-4">Lizard</label>
+                </fieldset>
+            </div>
+
+        	<div data-role="fieldcontain">
+        		<label for="textarea">Message:</label>
+        		<textarea cols="40" rows="8" name="message" id="message"></textarea>
+        	</div>
+
+        	<div class="ui-body ui-body-b">
+        		<fieldset class="ui-grid-a">
+        			<div class="ui-block-a"><button type="submit" data-theme="d">Cancel</button></div>
+        			<div class="ui-block-b"><button type="submit" data-theme="a">Submit</button></div>
+        		</fieldset>
+        	</div>
+        </form>
+
+
+
+
+		</div>
+
+		<div data-role="footer">
+			<p>&copy; 2014 jbarola.net</p>
+		</div>
+
+	</div>
+</body>
+</html>

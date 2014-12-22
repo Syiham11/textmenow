@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ap",
+				"api_url"
+			],
+			[
+				"ph",
+				"phone_number"
+			],
+			[
+				"cu",
+				"current_cownt"
+			],
+			[
+				"by",
+				"by_time_number"
+			],
+			[
+				"curren",
+				"current_date_time"
+			],
+			[
+				"cown",
+				"cownt_table"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"co",
+				"cownt_table"
+			],
+			[
+				"obj",
+				"obj_id"
+			],
+			[
+				"incl",
+				"includes"
+			],
+			[
+				"req",
+				"req1	require_once …"
+			],
+			[
+				"go",
+				"goal_cownt"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ch",
+				"changeTo"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"param",
+				"param_id"
+			],
+			[
+				"calcula",
+				"calculateExpiry"
+			],
+			[
+				"las",
+				"last_id"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"my",
+				"myads"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ima",
+				"image_path"
+			],
+			[
+				"img",
+				"img_msg"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"file",
+				"file_array"
+			],
+			[
+				"str",
+				"strtotime"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"valida",
+				"validated_data"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"insert",
+				"insertRegistration"
+			],
+			[
+				"upda",
+				"updateRegistration"
+			],
+			[
+				"san",
+				"sanitize_email"
+			],
+			[
+				"sani",
+				"sanitize_string"
+			],
+			[
+				"own",
+				"owneremail"
+			],
+			[
+				"ow",
+				"owner"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"fo",
+				"forgotpassword"
+			],
+			[
+				"di",
+				"disabled	Attr"
+			],
+			[
+				"is",
+				"is_user"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fff",
+				"FFFFFF"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"valid",
+				"validated_data"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"jsco",
+				"json_encode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"str_repl",
+				"str_replace"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"vali",
+				"validated_data"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"g",
+				"gsu	gsub(/../) { |match| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "send.php",
+			"settings":
+			{
+				"buffer_size": 628,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "boiler/forms.html",
+			"settings":
+			{
+				"buffer_size": 7985,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2728,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 398.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp-1.8.3/htdocs/textmenow",
+		"/C/xampp-1.8.3/htdocs/textmenow/boiler"
+	],
+	"file_history":
+	[
+		"/C/xampp-1.8.3/htdocs/textmenow/index-old.html",
+		"/C/xampp-1.8.3/htdocs/textmenow/send-old.php",
+		"/C/xampp-1.8.3/htdocs/textmenow/send.php",
+		"/C/xampp-1.8.3/htdocs/textmenow/index.html",
+		"/C/cygwin64/home/laptop/railo-express-4.2.1.000-nojre/webapps/ROOT/textmenow/textmenow.sublime-project",
+		"/C/cygwin64/home/laptop/railo-express-4.2.1.000-nojre/webapps/ROOT/textmenow/css/main.css",
+		"/C/cygwin64/home/laptop/railo-express-4.2.1.000-nojre/webapps/ROOT/textmenow/index.html",
+		"/C/cygwin64/home/laptop/cms_fastrecord/oi_nvr_server/oi_nvr_server.cpp",
+		"/C/Users/laptop/project/TestApp/www/index.html",
+		"/C/Users/laptop/project/TestApp/www/index-July 19 2014.html",
+		"/C/Users/laptop/Pictures/Family Pictures/photo0828.jpg",
+		"/C/xampp-1.8.3/htdocs/cownted/_vti_inf.html",
+		"/C/xampp-1.8.3/htdocs/cownted/index.php",
+		"/C/xampp-1.8.3/htdocs/cownted/cownted.sublime-project",
+		"/C/xampp-1.8.3/htdocs/cownted/error_log",
+		"/C/xampp-1.8.3/htdocs/cownted/fb.php",
+		"/C/xampp-1.8.3/htdocs/cownted/logged.php",
+		"/C/xampp-1.8.3/htdocs/cownted/.htaccess-May 31 2014",
+		"/C/xampp-1.8.3/htdocs/cownted/.htaccess",
+		"/C/xampp-1.8.3/htdocs/cownted/.ftpquota",
+		"/C/xampp-1.8.3/htdocs/cownted/backgroundproc/cron.php",
+		"/C/xampp-1.8.3/htdocs/cownted/templates/global_head.tpl",
+		"/C/xampp-1.8.3/htdocs/cownted/templates/login.tpl",
+		"/C/xampp-1.8.3/htdocs/cownted/templates/head_index.tpl",
+		"/C/xampp-1.8.3/htdocs/cownted/templates/head_login.tpl",
+		"/C/xampp-1.8.3/htdocs/cownted/templates/index.tpl",
+		"/C/xampp-1.8.3/htdocs/cownted/app/app.js",
+		"/C/xampp-1.8.3/htdocs/cownted/ajax/updateCownt.php",
+		"/C/xampp-1.8.3/htdocs/cownted/ajax/addCownt.php",
+		"/C/xampp182/htdocs/cownted/ajax/addCownt.php",
+		"/C/xampp182/htdocs/cownted/ajax/getTags.php",
+		"/C/xampp182/htdocs/cownted/app/app.js",
+		"/C/xampp182/htdocs/cownted/index.php",
+		"/C/xampp182/htdocs/cownted/includes/functions.php",
+		"/C/xampp182/htdocs/cownted/includes/globals.php",
+		"/C/xampp182/htdocs/cownted/includes/db.php",
+		"/C/xampp182/htdocs/cownted/includes/configs.php",
+		"/C/xampp182/htdocs/cownted/templates/head_index.tpl",
+		"/C/xampp182/htdocs/cownted/ajax/deleteCownt.php",
+		"/C/xampp182/htdocs/cownted/ajax/computeCownt.php",
+		"/C/xampp182/htdocs/cownted/css/style.css",
+		"/C/xampp182/htdocs/cownted/social_api/login-with.php",
+		"/C/xampp182/htdocs/cownted/ajax/updateCownt.php",
+		"/C/xampp182/htdocs/cownted/templates/global_head.tpl",
+		"/C/xampp182/htdocs/cownted/plugins/tag-it/css/jquery.tagit.css",
+		"/C/xampp182/htdocs/cownted/plugins/tag-it/css/tagit.ui-zendesk.css",
+		"/C/xampp182/htdocs/cownted/templates/index.tpl",
+		"/C/xampp182/htdocs/cownted/email_templates/notify_exceed_goal.htm",
+		"/C/xampp182/htdocs/cownted/cownted.sublime-project",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/ga.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/ga.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/workinginbgc.php",
+		"/C/xampp182/htdocs/eyeonbgc/bgcforkids.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/menu.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/doingbusinessinbgc.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/header.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/comments.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/comments.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/admin_editcomment.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/admin_editcomment.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/updatecomment.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/ads.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/head_admin_postad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/admin_postad.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/admin_editad.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/updatead.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/admin_postad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/savead.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/login.php",
+		"/C/xampp182/htdocs/eyeonbgc/editad.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/ads.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/admin_editad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/head_admin_editad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/saveregistration.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates_c/03827d48446d6d58b0073f78826d4e73cca3cf3e.file.head_admin_editad.tpl.php",
+		"/C/xampp182/htdocs/eyeonbgc/cron_jobs/once_daily.php",
+		"/C/xampp182/htdocs/eyeonbgc/templates/head_editad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/templates/viewad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/css/main.css",
+		"/C/xampp182/htdocs/eyeonbgc/templates/myads.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/index.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/login.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/logout.php",
+		"/C/xampp182/htdocs/eyeonbgc/logout.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/index.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/footer.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/assets/jquery.js",
+		"/C/xampp182/htdocs/eyeonbgc/includes/functions.php",
+		"/C/xampp182/htdocs/eyeonbgc/templates/header.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/members.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/templates/members.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/login.php",
+		"/C/xampp182/htdocs/eyeonbgc/templates/menu.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/templates/footer.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/index.php",
+		"/C/xampp182/htdocs/eyeonbgc/assets/css/styles.css",
+		"/C/xampp182/htdocs/eyeonbgc/viewad.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/config/main.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/controllers/SiteController.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/views/layouts/main.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/views/members/index.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/views/site/login.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/views/site/index.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/components/Controller.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/components/UserIdentity.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/models/LoginForm.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/config/console.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/protected/config/test.php",
+		"/C/xampp182/htdocs/eyeonbgc/myadmin/robots.txt",
+		"/C/xampp182/htdocs/eyeonbgc/templates/seeallads.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/templates/head_viewad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/templates/head_seeallads.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/assets/jquery.tooltip.zip",
+		"/C/xampp182/htdocs/eyeonbgc/savead.php",
+		"/C/xampp182/htdocs/eyeonbgc/templates/postad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/templates/editad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/templates/head_postad.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/updatead.php",
+		"/C/xampp182/htdocs/eyeonbgc/includes/configs.php",
+		"/C/xampp182/htdocs/eyeonbgc/templates/index.tpl",
+		"/C/xampp182/htdocs/eyeonbgc/menu/styles.css",
+		"/C/xampp182/htdocs/eyeonbgc/assets/css/metro-bootstrap.css",
+		"/C/Documents and Settings/jovenb_pc/My Documents/Requirements/SL Chua/globe3/ongoing/set_coa_botmain.cfm",
+		"/C/Documents and Settings/jovenb_pc/My Documents/Requirements/SL Chua/globe3/ongoing/done/set_sysadmin_botmain.cfm",
+		"/C/Documents and Settings/jovenb_pc/My Documents/Requirements/SL Chua/globe3/ongoing/done/set_co_info_botmain.cfm",
+		"/C/xampp182/htdocs/eyeonbgc/seeallads.php",
+		"/C/xampp182/htdocs/eyeonbgc/assets/css/editad.css",
+		"/C/xampp182/htdocs/eyeonbgc/templates/head_contactus.tpl"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filterThis(",
+			"Are you",
+			"Are you sure",
+			"-5\"",
+			"toggleEditFields",
+			"toggleFields",
+			"editcowntType",
+			"toggleFields",
+			"cownType",
+			"tByNumber",
+			"user_email",
+			"Tags",
+			"Tag",
+			"Tag :",
+			"Tag:",
+			"CountableFormTags",
+			"Tags",
+			"CountableFormTags",
+			"/textext/",
+			"/plugins",
+			"/textext/",
+			"hidcowntid",
+			"hidden",
+			"type=\"hidde",
+			"'postad.php'",
+			"assets/",
+			"saveAd",
+			"members.php",
+			"\"assets/images",
+			"/myadmin/css",
+			"assets/",
+			"\"assets/",
+			"yw",
+			"myAle",
+			"Posted:",
+			"Date Posted:",
+			"Date Posted",
+			"Date Posted:",
+			"Date Posted\"",
+			"Date Posted:",
+			"image-button.pri",
+			".primary",
+			".prima",
+			".pri",
+			"Currency",
+			"<cfelseif fromsegm is \"bankacct\" or fromsegm is \"pcash\">",
+			" <cfelseif fromsegm is \"bankacct\" or fromsegm is \"pcash\">",
+			"<cfelseif fromsegm is \"bankacct\" or fromsegm is \"pcash\">",
+			"<cfelseif fromsegm is \"network\">",
+			"<td width=\"124\" class=\"font8v\">",
+			"<td width=\"94\" class=\"font8v\">",
+			"<cfelseif fromsegm is \"network\">",
+			"<td width=\"104\"",
+			"<td width=\"94\"",
+			"<td width=\"94\" class=\"labelblock\">",
+			"frmpostad",
+			"price",
+			"frmpostad",
+			"is_valid_image",
+			"This file type is not permitted",
+			"shado",
+			"myErrorHandler",
+			"$file_array[tfile]",
+			"[\"timage1\"][",
+			"$_FILES",
+			"[\"file\"][",
+			"[\"file\"]",
+			"frmregistration",
+			"ayosdito",
+			"eyeonbgc",
+			"frmregistration",
+			"http:",
+			"<p >",
+			"style=\n                                \"margin-bottom:0in;margin-bottom:.0001pt;line-height: normal\"",
+			"style=\n                                \"margin-bottom:0in;margin-bottom:.0001pt;line-height: normal\">",
+			" nowrap",
+			"style=\"\"",
+			"images/tests/",
+			"footer",
+			"width",
+			".nav",
+			"nav",
+			"p",
+			"twebsite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\" + obj.name",
+			"user_id",
+			"plugins/textext/",
+			"/plugins/textext/",
+			"plugins",
+			"/plugins/",
+			"'admin_postad.php'",
+			"../assets/",
+			"updateAd",
+			"\"../assets/images",
+			"css",
+			"../assets/",
+			"\"../assets/",
+			"<td width=\"124\" class=\"labelblock\">",
+			"<td width=\"124\" class=\"font8v\">",
+			"<td width=\"124\"",
+			"<td width=\"104\"",
+			"<td width=\"104\" class=\"labelblock\">",
+			"frmeditad",
+			"myAlertMessage",
+			"$file_array[$tfile]",
+			"[tfile][",
+			"$file_array",
+			"[\"timage1\"][",
+			"[\"timage1\"]",
+			"frmpostad",
+			"eyeonbgc",
+			"<p>",
+			"",
+			"images/masterpage/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "send.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "boiler/forms.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4015,
+								3347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2935.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1375,
+								1375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 136.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 142.0
+	},
+	"project": "textmenow.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp-1.8.3\\htdocs\\nvrhtml\\nvrhtml.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
